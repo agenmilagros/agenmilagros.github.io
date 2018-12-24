@@ -205,7 +205,7 @@ footer.footer {
 .arrow_box_transparent {
 	position: relative;
 	background: #;
-	border: 1px dashed #c2e1f5;
+	border: 1px solid #c2e1f5;
 }
 .arrow_box:after, .arrow_box:before {
 	top: 100%;
